@@ -19,12 +19,4 @@ public class Boat implements WaterVehicle {
         return capacity;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public int getCapacity() {
-        return capacity;
-    }
-
 }
